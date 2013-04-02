@@ -1,0 +1,9 @@
+{
+  "name": "modernizr-meteor",
+  "description": "Mmodernizr repackaged for Meteor",
+  "homepage": "https://github.com/ckir/modernizr-meteor.git",
+  "author": "Costas Kirgoussios",
+  "version": "2.6.2",
+  "git": "https://github.com/ckir/modernizr-meteor.git",
+  "packages": {}
+}
